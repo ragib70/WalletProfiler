@@ -27,7 +27,7 @@ let profilerData = [
     labels: ["Staker", "NFT Holder"],
   },
   {
-    id: 3,
+    id: 4,
     walletAddress: "0x99999999999999999999999",
     totalBalance: 100,
     lifeTimeValueApp: 24353,
